@@ -1,15 +1,8 @@
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-
-* list 1!!!!!
-* list 2
-
-Updated
-## study git
-# ADD
-Hello
+# 1. 오픈소스 소프트웨어
+# 2. 리눅스
+## 2.1. 명령어 종류
+# 3. GitHub
+## 3.1. GitHub 활용법
+### 3.1.1. 로컬 레포지토리에서 작업
+### 3.1.2. 원격 레포지토리의 변경사항 가져오기
+### 3.1.3. 브랜치 및 로그 확인
